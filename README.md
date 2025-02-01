@@ -4,5 +4,5 @@
 ```
 cd desktop
 wkdir ehab
-git clone
+git clone https://github.com/Ehab-Nasr/project2
 ```
